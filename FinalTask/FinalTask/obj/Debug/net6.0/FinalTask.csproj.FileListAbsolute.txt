@@ -1,0 +1,15 @@
+/Users/viktornazilin/Projects/FinalTask/FinalTask/bin/Debug/net6.0/FinalTask
+/Users/viktornazilin/Projects/FinalTask/FinalTask/bin/Debug/net6.0/FinalTask.deps.json
+/Users/viktornazilin/Projects/FinalTask/FinalTask/bin/Debug/net6.0/FinalTask.runtimeconfig.json
+/Users/viktornazilin/Projects/FinalTask/FinalTask/bin/Debug/net6.0/FinalTask.dll
+/Users/viktornazilin/Projects/FinalTask/FinalTask/bin/Debug/net6.0/FinalTask.pdb
+/Users/viktornazilin/Projects/FinalTask/FinalTask/obj/Debug/net6.0/FinalTask.csproj.AssemblyReference.cache
+/Users/viktornazilin/Projects/FinalTask/FinalTask/obj/Debug/net6.0/FinalTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viktornazilin/Projects/FinalTask/FinalTask/obj/Debug/net6.0/FinalTask.AssemblyInfoInputs.cache
+/Users/viktornazilin/Projects/FinalTask/FinalTask/obj/Debug/net6.0/FinalTask.AssemblyInfo.cs
+/Users/viktornazilin/Projects/FinalTask/FinalTask/obj/Debug/net6.0/FinalTask.csproj.CoreCompileInputs.cache
+/Users/viktornazilin/Projects/FinalTask/FinalTask/obj/Debug/net6.0/FinalTask.dll
+/Users/viktornazilin/Projects/FinalTask/FinalTask/obj/Debug/net6.0/refint/FinalTask.dll
+/Users/viktornazilin/Projects/FinalTask/FinalTask/obj/Debug/net6.0/FinalTask.pdb
+/Users/viktornazilin/Projects/FinalTask/FinalTask/obj/Debug/net6.0/FinalTask.genruntimeconfig.cache
+/Users/viktornazilin/Projects/FinalTask/FinalTask/obj/Debug/net6.0/ref/FinalTask.dll
